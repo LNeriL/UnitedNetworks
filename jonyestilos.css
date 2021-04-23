@@ -1,0 +1,23 @@
+
+body{
+    font-family: 'Anton', sans-serif;
+    background: hsla(202, 83%, 36%, 0.774);  
+    /* fallback for old browsers */
+    background: linear-gradient(to right, hsla(20, 92%, 53%, 0.712), hsla(202, 81%, 23%, 0.719));  
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, hsla(20, 92%, 53%, 0.726), hsla(202, 82%, 35%, 0.699)); 
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.main{
+    width: 80%;
+    margin: auto;
+}
+
+h1{
+    text-align: center;
+}
+
+video{
+    width: 100%;
+}
